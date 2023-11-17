@@ -1,0 +1,7 @@
+langchain
+langchain_experimental
+openai
+streamlit
+ipykernel
+jupyter
+python-dotenv
